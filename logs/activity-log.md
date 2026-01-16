@@ -20,3 +20,6 @@ Histórico cronológico de estudos, práticas e evoluções técnicas.
 
 ### 2026-01-16 15:47
 - Otimização de queries SQL
+
+### 2026-01-16 16:30
+- Análise de performance no frontend
