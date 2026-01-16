@@ -25,7 +25,7 @@ Para que a automação funcione, este código precisa estar hospedado no GitHub.
     git branch -M main
     
     # Conecta com seu repositório remoto (substitua a URL)
-    git remote add origin https://github.com/SEU_USUARIO/my-dev-evolution.git
+    git remote add origin https://github.com/ThiagoSerra23/my-dev-evolution.git
     
     # Envia para o GitHub
     git push -u origin main
