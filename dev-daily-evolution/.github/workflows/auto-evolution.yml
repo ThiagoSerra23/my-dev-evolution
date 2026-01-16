@@ -1,0 +1,35 @@
+name: Auto Evolution
+
+on:
+  schedule:
+    # Executa a cada 30 minutos, das 09h às 18h, de segunda a sexta
+    - cron: "*/30 9-18 * * 1-5"
+  workflow_dispatch: # Permite execução manual
+
+jobs:
+  evolve:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run Evolution Script
+        run: |
+          python scripts/auto_evolution.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          # Só commita se houver mudanças
+          git diff --quiet && git diff --staged --quiet || git commit -m "$(python scripts/get_commit_message.py)"
+          git push
