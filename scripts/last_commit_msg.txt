@@ -1,1 +1,1 @@
-style: add css snippet animations.css
+docs: update activity log with 'Estudo de hooks avançados no React'
