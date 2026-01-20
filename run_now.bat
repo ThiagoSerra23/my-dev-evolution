@@ -1,4 +1,5 @@
 @echo off
+cd /d %~dp0
 chcp 65001 > nul
 echo --- Dev Daily Evolution: Execucao Manual ---
 echo.
