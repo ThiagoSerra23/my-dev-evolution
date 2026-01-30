@@ -29,3 +29,6 @@ Histórico cronológico de estudos, práticas e evoluções técnicas.
 
 ### 2026-01-17 10:26
 - Estudo de hooks avançados no React
+
+### 2026-01-30 11:02
+- Refatoração de pequenos componentes
