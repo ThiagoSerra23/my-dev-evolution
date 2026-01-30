@@ -35,3 +35,6 @@ Histórico cronológico de estudos, práticas e evoluções técnicas.
 
 ### 2026-01-30 11:50
 - Refatoração de pequenos componentes
+
+### 2026-01-30 13:59
+- Revisão de conceitos de Clean Architecture
