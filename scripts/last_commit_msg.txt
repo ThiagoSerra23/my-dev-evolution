@@ -1,1 +1,1 @@
-style: add css snippet theme.css
+feat(backend): add/update EmailValidator.cs snippet
