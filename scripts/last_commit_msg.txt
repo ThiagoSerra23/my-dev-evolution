@@ -1,1 +1,1 @@
-docs: update activity log with 'Revisão de SOLID principles'
+style: add css snippet theme.css
