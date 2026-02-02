@@ -1,1 +1,1 @@
-study: add notes on Clean Architecture
+db: add/update SQL query indexes.sql
