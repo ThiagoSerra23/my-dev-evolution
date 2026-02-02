@@ -1,19 +1,10 @@
 import React from 'react';
 
-type ButtonProps = {
+interface ButtonProps {
     label: string;
     onClick: () => void;
-    variant?: 'primary' | 'secondary';
-};
+}
 
-export const Button = ({ label, onClick, variant = 'primary' }: ButtonProps) => {
-    const styles = variant === 'primary'
-        ? { backgroundColor: 'blue', color: 'white' }
-        : { backgroundColor: 'gray', color: 'black' };
-
-    return (
-        <button onClick={onClick} style={{ padding: '10px 20px', ...styles }}>
-            {label}
-        </button>
-    );
+export const Button: React.FC<ButtonProps> = ({ label, onClick }) => {
+    return <button onClick={onClick} className="btn-primary">{label}</button>;
 };
