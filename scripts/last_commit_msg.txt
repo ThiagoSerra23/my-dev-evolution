@@ -1,1 +1,1 @@
-study: add notes on React Performance
+style: add css snippet theme.css
