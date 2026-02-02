@@ -1,1 +1,1 @@
-feat(frontend): add/update Button.tsx component
+study: add notes on TypeScript Generics
