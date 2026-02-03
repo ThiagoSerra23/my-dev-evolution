@@ -1,1 +1,1 @@
-docs: update activity log with 'Refatoração de pequenos componentes'
+db: add/update SQL query indexes.sql
