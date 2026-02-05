@@ -92,3 +92,6 @@ Histórico cronológico de estudos, práticas e evoluções técnicas.
 
 ### 2026-02-04 17:24
 - Análise de performance no frontend
+
+### 2026-02-05 11:35
+- Revisão de SOLID principles
