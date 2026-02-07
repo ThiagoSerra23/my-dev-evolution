@@ -1,1 +1,1 @@
-study: add notes on Clean Architecture
+feat(frontend): add/update Card.tsx component
