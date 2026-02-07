@@ -1,1 +1,1 @@
-feat(frontend): add/update Button.tsx component
+style: add css snippet animations.css
