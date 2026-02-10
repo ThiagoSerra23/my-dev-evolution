@@ -1,1 +1,1 @@
-docs: update activity log with 'Estudo de hooks avançados no React'
+feat(frontend): add/update Card.tsx component
