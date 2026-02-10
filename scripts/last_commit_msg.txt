@@ -1,1 +1,1 @@
-study: add notes on C# AspNet Core
+docs: update activity log with 'Leitura sobre padrões de projeto em C#'
