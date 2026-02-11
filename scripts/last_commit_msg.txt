@@ -1,1 +1,1 @@
-docs: update activity log with 'Configuração de pipeline CI/CD'
+docs: update activity log with 'Revisão de SOLID principles'
