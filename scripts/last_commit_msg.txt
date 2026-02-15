@@ -1,1 +1,1 @@
-feat(backend): add/update EmailValidator.cs snippet
+db: add/update SQL query users_table.sql
