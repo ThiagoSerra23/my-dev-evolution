@@ -200,3 +200,6 @@ Histórico cronológico de estudos, práticas e evoluções técnicas.
 
 ### 2026-02-14 18:43
 - Refatoração de pequenos componentes
+
+### 2026-02-15 11:27
+- Revisão de SOLID principles

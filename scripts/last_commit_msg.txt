@@ -1,1 +1,1 @@
-study: add notes on TypeScript Generics
+docs: update activity log with 'Revisão de SOLID principles'
