@@ -1,1 +1,1 @@
-study: add notes on TypeScript Generics
+db: add/update SQL query indexes.sql
