@@ -1,1 +1,1 @@
-chore(lab): add python utility scraper.py
+docs: update activity log with 'Configuração de pipeline CI/CD'
