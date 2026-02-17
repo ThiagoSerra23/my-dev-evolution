@@ -1,1 +1,1 @@
-docs: update activity log with 'Revisão de conceitos de Clean Architecture'
+chore(lab): add python utility scraper.py
