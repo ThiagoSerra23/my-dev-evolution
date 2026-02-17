@@ -218,3 +218,6 @@ Histórico cronológico de estudos, práticas e evoluções técnicas.
 
 ### 2026-02-16 18:02
 - Revisão de SOLID principles
+
+### 2026-02-17 10:46
+- Revisão de conceitos de Clean Architecture
