@@ -227,3 +227,6 @@ Histórico cronológico de estudos, práticas e evoluções técnicas.
 
 ### 2026-02-17 17:55
 - Análise de performance no frontend
+
+### 2026-02-18 10:46
+- Configuração de pipeline CI/CD
