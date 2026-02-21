@@ -1,1 +1,1 @@
-docs: update activity log with 'Refatoração de pequenos componentes'
+docs: update activity log with 'Configuração de pipeline CI/CD'
