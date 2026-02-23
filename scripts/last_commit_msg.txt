@@ -1,1 +1,1 @@
-style: add css snippet animations.css
+study: add notes on Git Flow
