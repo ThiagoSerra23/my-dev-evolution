@@ -1,1 +1,1 @@
-docs: update activity log with 'Otimização de queries SQL'
+study: add notes on React Performance
