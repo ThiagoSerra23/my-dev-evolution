@@ -1,1 +1,1 @@
-study: add notes on C# AspNet Core
+docs: update activity log with 'Refatoração de pequenos componentes'
