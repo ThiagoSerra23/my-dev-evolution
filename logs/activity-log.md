@@ -287,3 +287,6 @@ Histórico cronológico de estudos, práticas e evoluções técnicas.
 
 ### 2026-02-23 16:28
 - Revisão de conceitos de Clean Architecture
+
+### 2026-02-24 09:53
+- Otimização de queries SQL
