@@ -1,1 +1,1 @@
-chore(lab): add python utility image_resizer.py
+docs: update activity log with 'Revisão de SOLID principles'
