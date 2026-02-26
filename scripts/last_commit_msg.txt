@@ -1,1 +1,1 @@
-chore(lab): add python utility image_resizer.py
+study: add notes on Git Flow
