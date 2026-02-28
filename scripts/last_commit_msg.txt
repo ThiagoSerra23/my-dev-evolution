@@ -1,1 +1,1 @@
-docs: update activity log with 'Análise de performance no frontend'
+test: add unit test UserServiceTests.cs
