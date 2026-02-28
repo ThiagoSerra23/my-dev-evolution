@@ -1,1 +1,1 @@
-style: add css snippet theme.css
+study: add notes on SOLID - SRP
