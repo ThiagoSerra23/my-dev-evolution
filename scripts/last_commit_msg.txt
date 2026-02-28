@@ -1,1 +1,1 @@
-docs: update activity log with 'Leitura sobre padrões de projeto em C#'
+docs: update activity log with 'Otimização de queries SQL'
