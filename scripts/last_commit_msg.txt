@@ -1,1 +1,1 @@
-docs: update activity log with 'Refatoração de pequenos componentes'
+docs: update activity log with 'Estudo de hooks avançados no React'
