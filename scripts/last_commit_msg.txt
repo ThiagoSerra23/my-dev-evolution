@@ -1,1 +1,1 @@
-feat(frontend): add/update Input.tsx component
+docs: update activity log with 'Leitura sobre padrões de projeto em C#'
