@@ -1,1 +1,1 @@
-docs: update activity log with 'Revisão de conceitos de Clean Architecture'
+feat(frontend): add/update Button.tsx component
