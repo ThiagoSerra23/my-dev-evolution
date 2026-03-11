@@ -425,3 +425,6 @@ Histórico cronológico de estudos, práticas e evoluções técnicas.
 
 ### 2026-03-11 13:02
 - Análise de performance no frontend
+
+### 2026-03-11 14:26
+- Revisão de conceitos de Clean Architecture
