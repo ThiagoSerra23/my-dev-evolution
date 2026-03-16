@@ -1,1 +1,1 @@
-docs: update activity log with 'Configuração de pipeline CI/CD'
+study: add notes on React Performance
