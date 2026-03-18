@@ -485,3 +485,6 @@ Histórico cronológico de estudos, práticas e evoluções técnicas.
 
 ### 2026-03-18 16:08
 - Refatoração de pequenos componentes
+
+### 2026-03-18 17:35
+- Leitura sobre padrões de projeto em C#
