@@ -1,1 +1,1 @@
-docs: update activity log with 'Configuração de pipeline CI/CD'
+feat(frontend): add/update Card.tsx component
