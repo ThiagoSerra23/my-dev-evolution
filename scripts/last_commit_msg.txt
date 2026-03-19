@@ -1,1 +1,1 @@
-feat(frontend): add/update Card.tsx component
+style: add css snippet grid.css
