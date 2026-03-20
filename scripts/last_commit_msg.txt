@@ -1,1 +1,1 @@
-test: add unit test UserServiceTests.cs
+db: add/update SQL query users_table.sql
