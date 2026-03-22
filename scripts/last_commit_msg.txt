@@ -1,1 +1,1 @@
-docs: update activity log with 'Refatoração de pequenos componentes'
+study: add notes on TypeScript Generics
