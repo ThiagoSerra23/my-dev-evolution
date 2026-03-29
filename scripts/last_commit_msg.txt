@@ -1,1 +1,1 @@
-feat(backend): add/update OrderRepository.cs snippet
+docs: update activity log with 'Configuração de pipeline CI/CD'
