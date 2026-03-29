@@ -1,1 +1,1 @@
-feat(frontend): add/update Input.tsx component
+db: add/update SQL query users_table.sql
