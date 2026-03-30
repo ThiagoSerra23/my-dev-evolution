@@ -593,3 +593,6 @@ Histórico cronológico de estudos, práticas e evoluções técnicas.
 
 ### 2026-03-29 11:34
 - Configuração de pipeline CI/CD
+
+### 2026-03-30 10:17
+- Otimização de queries SQL
