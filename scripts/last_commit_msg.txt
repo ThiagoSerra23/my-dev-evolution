@@ -1,1 +1,1 @@
-feat(backend): add/update EmailValidator.cs snippet
+style: add css snippet animations.css
