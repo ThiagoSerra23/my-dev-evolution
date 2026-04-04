@@ -1,1 +1,1 @@
-study: add notes on SOLID - SRP
+chore(lab): add python utility image_resizer.py
