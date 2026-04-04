@@ -1,1 +1,1 @@
-docs: update activity log with 'Análise de performance no frontend'
+feat(backend): add/update EmailValidator.cs snippet
