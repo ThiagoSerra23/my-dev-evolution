@@ -1,1 +1,1 @@
-docs: update activity log with 'Estudo de hooks avançados no React'
+study: add notes on Docker
