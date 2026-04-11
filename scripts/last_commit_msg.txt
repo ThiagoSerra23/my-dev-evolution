@@ -1,1 +1,1 @@
-study: add notes on Docker
+study: add notes on Git Flow
