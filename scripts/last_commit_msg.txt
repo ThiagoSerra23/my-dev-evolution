@@ -1,1 +1,1 @@
-docs: update activity log with 'Refatoração de pequenos componentes'
+style: add css snippet animations.css
