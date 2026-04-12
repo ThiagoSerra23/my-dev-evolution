@@ -1,1 +1,1 @@
-style: add css snippet theme.css
+docs: update activity log with 'Refatoração de pequenos componentes'
