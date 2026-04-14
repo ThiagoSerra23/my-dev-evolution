@@ -710,3 +710,6 @@ Histórico cronológico de estudos, práticas e evoluções técnicas.
 
 ### 2026-04-14 16:40
 - Revisão de SOLID principles
+
+### 2026-04-14 18:05
+- Configuração de pipeline CI/CD
