@@ -1,1 +1,1 @@
-test: add unit test MathUtilsTests.py
+db: add/update SQL query users_table.sql
