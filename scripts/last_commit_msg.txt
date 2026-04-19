@@ -1,1 +1,1 @@
-db: add/update SQL query indexes.sql
+docs: update activity log with 'Estudo de hooks avançados no React'
