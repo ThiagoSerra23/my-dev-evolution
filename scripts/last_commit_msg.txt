@@ -1,1 +1,1 @@
-study: add notes on React Performance
+db: add/update SQL query indexes.sql
