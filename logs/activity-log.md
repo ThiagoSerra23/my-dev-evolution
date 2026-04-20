@@ -758,3 +758,6 @@ Histórico cronológico de estudos, práticas e evoluções técnicas.
 
 ### 2026-04-19 17:40
 - Estudo de hooks avançados no React
+
+### 2026-04-20 10:48
+- Estudo de hooks avançados no React
