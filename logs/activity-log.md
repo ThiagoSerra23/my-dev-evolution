@@ -818,3 +818,6 @@ Histórico cronológico de estudos, práticas e evoluções técnicas.
 
 ### 2026-04-26 10:51
 - Revisão de SOLID principles
+
+### 2026-04-26 13:18
+- Leitura sobre padrões de projeto em C#
