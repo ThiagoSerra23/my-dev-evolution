@@ -1,1 +1,1 @@
-style: add css snippet theme.css
+docs: update activity log with 'Leitura sobre padrões de projeto em C#'
