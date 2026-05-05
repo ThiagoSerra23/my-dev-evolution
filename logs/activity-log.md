@@ -911,3 +911,6 @@ Histórico cronológico de estudos, práticas e evoluções técnicas.
 
 ### 2026-05-04 17:14
 - Refatoração de pequenos componentes
+
+### 2026-05-05 16:24
+- Otimização de queries SQL
