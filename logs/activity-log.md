@@ -923,3 +923,6 @@ Histórico cronológico de estudos, práticas e evoluções técnicas.
 
 ### 2026-05-06 15:40
 - Refatoração de pequenos componentes
+
+### 2026-05-06 17:41
+- Configuração de pipeline CI/CD
