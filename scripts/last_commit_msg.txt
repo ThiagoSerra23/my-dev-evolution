@@ -1,1 +1,1 @@
-docs: update activity log with 'Análise de performance no frontend'
+feat(frontend): add/update Button.tsx component
