@@ -1,1 +1,1 @@
-docs: update activity log with 'Revisão de SOLID principles'
+docs: update activity log with 'Otimização de queries SQL'

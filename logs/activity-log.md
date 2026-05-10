@@ -953,3 +953,6 @@ Histórico cronológico de estudos, práticas e evoluções técnicas.
 
 ### 2026-05-10 14:58
 - Revisão de SOLID principles
+
+### 2026-05-10 16:02
+- Otimização de queries SQL
