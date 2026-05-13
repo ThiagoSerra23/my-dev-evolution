@@ -983,3 +983,6 @@ Histórico cronológico de estudos, práticas e evoluções técnicas.
 
 ### 2026-05-13 13:37
 - Revisão de conceitos de Clean Architecture
+
+### 2026-05-13 16:19
+- Configuração de pipeline CI/CD
