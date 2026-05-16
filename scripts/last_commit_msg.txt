@@ -1,1 +1,1 @@
-study: add notes on SOLID - SRP
+style: add css snippet grid.css
