@@ -1,1 +1,1 @@
-study: add notes on React Performance
+feat(frontend): add/update Input.tsx component
