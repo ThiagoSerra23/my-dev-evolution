@@ -1,1 +1,1 @@
-style: add css snippet theme.css
+docs: update activity log with 'Revisão de conceitos de Clean Architecture'
