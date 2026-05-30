@@ -1,1 +1,1 @@
-docs: update activity log with 'Revisão de SOLID principles'
+db: add/update SQL query indexes.sql
