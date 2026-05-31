@@ -1052,3 +1052,6 @@ Histórico cronológico de estudos, práticas e evoluções técnicas.
 
 ### 2026-05-30 17:14
 - Revisão de SOLID principles
+
+### 2026-05-31 13:57
+- Estudo de hooks avançados no React
