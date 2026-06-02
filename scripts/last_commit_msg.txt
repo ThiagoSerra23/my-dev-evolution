@@ -1,1 +1,1 @@
-style: add css snippet animations.css
+docs: update activity log with 'Revisão de SOLID principles'
