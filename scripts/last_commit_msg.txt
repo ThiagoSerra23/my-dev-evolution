@@ -1,1 +1,1 @@
-study: add notes on C# AspNet Core
+style: add css snippet animations.css
