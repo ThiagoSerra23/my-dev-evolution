@@ -1121,3 +1121,6 @@ Histórico cronológico de estudos, práticas e evoluções técnicas.
 
 ### 2026-06-15 15:14
 - Análise de performance no frontend
+
+### 2026-06-15 19:11
+- Leitura sobre padrões de projeto em C#
