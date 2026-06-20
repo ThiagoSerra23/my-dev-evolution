@@ -1,1 +1,1 @@
-study: add notes on Clean Architecture
+docs: update activity log with 'Otimização de queries SQL'
