@@ -1,1 +1,1 @@
-docs: update activity log with 'Otimização de queries SQL'
+feat(frontend): add/update Input.tsx component
