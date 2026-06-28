@@ -1,1 +1,1 @@
-style: add css snippet animations.css
+style: add css snippet theme.css
