@@ -1187,3 +1187,6 @@ Histórico cronológico de estudos, práticas e evoluções técnicas.
 
 ### 2026-06-30 11:44
 - Estudo de hooks avançados no React
+
+### 2026-06-30 18:55
+- Leitura sobre padrões de projeto em C#
