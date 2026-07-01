@@ -1,1 +1,1 @@
-feat(frontend): add/update Input.tsx component
+study: add notes on C# AspNet Core
