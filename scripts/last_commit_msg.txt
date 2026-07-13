@@ -1,1 +1,1 @@
-feat(backend): add/update EmailValidator.cs snippet
+docs: update activity log with 'Estudo de hooks avançados no React'
