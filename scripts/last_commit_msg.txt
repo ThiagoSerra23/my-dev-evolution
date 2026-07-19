@@ -1,1 +1,1 @@
-chore(lab): add python utility data_processor.py
+study: add notes on React Performance
