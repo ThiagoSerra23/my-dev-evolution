@@ -1304,3 +1304,6 @@ Histórico cronológico de estudos, práticas e evoluções técnicas.
 
 ### 2026-07-22 12:57
 - Análise de performance no frontend
+
+### 2026-07-22 15:08
+- Estudo de hooks avançados no React
