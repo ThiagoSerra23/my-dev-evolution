@@ -1310,3 +1310,6 @@ Histórico cronológico de estudos, práticas e evoluções técnicas.
 
 ### 2026-07-23 12:58
 - Leitura sobre padrões de projeto em C#
+
+### 2026-07-23 15:18
+- Otimização de queries SQL
