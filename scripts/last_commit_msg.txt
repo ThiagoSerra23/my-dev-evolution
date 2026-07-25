@@ -1,1 +1,1 @@
-docs: update activity log with 'Estudo de hooks avançados no React'
+docs: update activity log with 'Revisão de SOLID principles'
