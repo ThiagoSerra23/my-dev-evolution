@@ -1352,3 +1352,6 @@ Histórico cronológico de estudos, práticas e evoluções técnicas.
 
 ### 2026-07-28 17:27
 - Estudo de hooks avançados no React
+
+### 2026-07-28 18:54
+- Configuração de pipeline CI/CD
