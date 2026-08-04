@@ -1403,3 +1403,6 @@ Histórico cronológico de estudos, práticas e evoluções técnicas.
 
 ### 2026-08-03 17:24
 - Otimização de queries SQL
+
+### 2026-08-04 13:15
+- Estudo de hooks avançados no React
