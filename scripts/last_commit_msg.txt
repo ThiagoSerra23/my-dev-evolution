@@ -1,1 +1,1 @@
-docs: update activity log with 'Leitura sobre padrões de projeto em C#'
+style: add css snippet animations.css
