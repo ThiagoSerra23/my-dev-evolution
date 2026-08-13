@@ -1,1 +1,1 @@
-feat(frontend): add/update Card.tsx component
+docs: update activity log with 'Revisão de conceitos de Clean Architecture'

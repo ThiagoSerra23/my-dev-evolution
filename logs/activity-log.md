@@ -1478,3 +1478,6 @@ Histórico cronológico de estudos, práticas e evoluções técnicas.
 
 ### 2026-08-12 17:28
 - Estudo de hooks avançados no React
+
+### 2026-08-13 10:05
+- Revisão de conceitos de Clean Architecture
