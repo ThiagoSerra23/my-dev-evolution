@@ -1,1 +1,1 @@
-chore(lab): add python utility image_resizer.py
+chore(lab): add python utility data_processor.py
