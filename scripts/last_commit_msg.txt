@@ -1,1 +1,1 @@
-style: add css snippet theme.css
+docs: update activity log with 'Configuração de pipeline CI/CD'
