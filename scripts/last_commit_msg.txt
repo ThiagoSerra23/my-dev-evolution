@@ -1,1 +1,1 @@
-study: add notes on TypeScript Generics
+feat(frontend): add/update Card.tsx component
