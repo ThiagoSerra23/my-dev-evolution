@@ -1,1 +1,1 @@
-style: add css snippet theme.css
+chore(lab): add python utility image_resizer.py
