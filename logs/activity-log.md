@@ -1610,3 +1610,6 @@ Histórico cronológico de estudos, práticas e evoluções técnicas.
 
 ### 2026-08-21 09:35
 - Configuração de pipeline CI/CD
+
+### 2026-08-21 11:33
+- Leitura sobre padrões de projeto em C#
