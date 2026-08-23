@@ -1,1 +1,1 @@
-test: add unit test MathUtilsTests.py
+docs: update activity log with 'Estudo de hooks avançados no React'
