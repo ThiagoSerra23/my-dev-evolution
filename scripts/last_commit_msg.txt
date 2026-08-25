@@ -1,1 +1,1 @@
-study: add notes on React Performance
+study: add notes on C# AspNet Core
