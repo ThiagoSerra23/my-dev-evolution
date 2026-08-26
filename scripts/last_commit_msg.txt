@@ -1,1 +1,1 @@
-docs: update activity log with 'Revisão de SOLID principles'
+feat(frontend): add/update Input.tsx component
