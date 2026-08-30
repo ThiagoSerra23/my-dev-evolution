@@ -1,1 +1,1 @@
-chore(lab): add python utility scraper.py
+study: add notes on C# AspNet Core
