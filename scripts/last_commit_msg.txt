@@ -1,1 +1,1 @@
-feat(frontend): add/update Card.tsx component
+study: add notes on C# AspNet Core
