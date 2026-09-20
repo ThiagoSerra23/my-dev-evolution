@@ -1,1 +1,1 @@
-chore(lab): add python utility scraper.py
+style: add css snippet animations.css
