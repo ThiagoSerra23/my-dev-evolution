@@ -1,1 +1,1 @@
-feat(frontend): add/update Card.tsx component
+chore(lab): add python utility scraper.py
