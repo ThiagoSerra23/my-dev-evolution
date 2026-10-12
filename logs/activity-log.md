@@ -1778,3 +1778,6 @@ Histórico cronológico de estudos, práticas e evoluções técnicas.
 
 ### 2026-10-11 16:11
 - Revisão de conceitos de Clean Architecture
+
+### 2026-10-12 18:39
+- Leitura sobre padrões de projeto em C#
