@@ -1,1 +1,1 @@
-study: add notes on Docker
+style: add css snippet animations.css
