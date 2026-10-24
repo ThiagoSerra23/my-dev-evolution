@@ -1,1 +1,1 @@
-docs: update activity log with 'Revisão de conceitos de Clean Architecture'
+docs: update activity log with 'Refatoração de pequenos componentes'
