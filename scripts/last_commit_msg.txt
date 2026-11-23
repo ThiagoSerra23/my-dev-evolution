@@ -1,1 +1,1 @@
-feat(frontend): add/update Input.tsx component
+docs: update activity log with 'Estudo de hooks avançados no React'
